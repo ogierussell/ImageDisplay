@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.1 (swiftlang-700.1.101.6 clang-700.1.76)"
+options: "478013526aed77018b1f4649efd5efe1"
+build_time: [505309763, 767510000]
+inputs:
+  "/Users/lukemcdaid/Desktop/ImageDisplay/ImageDisplay/AppDelegate.swift": [505309759, 0]
+  "/Users/lukemcdaid/Desktop/ImageDisplay/ImageDisplay/ViewController.swift": [505309760, 0]
