@@ -1,6 +1,0 @@
-version: "Apple Swift version 2.1 (swiftlang-700.1.101.6 clang-700.1.76)"
-options: "5e090dd03b72c605467ac7c9eff7fa5c"
-build_time: [505314109, 101023000]
-inputs:
-  "/Users/lukemcdaid/ImageDisplay2/ImageDisplay/AppDelegate.swift": !dirty [505314090, 0]
-  "/Users/lukemcdaid/ImageDisplay2/ImageDisplay/ViewController.swift": !dirty [505314090, 0]
