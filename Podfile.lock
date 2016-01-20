@@ -1,0 +1,10 @@
+PODS:
+  - MTTPureLayout (2.0.5)
+
+DEPENDENCIES:
+  - MTTPureLayout
+
+SPEC CHECKSUMS:
+  MTTPureLayout: ab199c1063e5b1bfcbd762fa179aef769e37cd4c
+
+COCOAPODS: 0.39.0
